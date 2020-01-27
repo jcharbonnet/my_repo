@@ -7,3 +7,4 @@ echo '{
         "ansible_connection": "local"
      }  },
   "all": {    "hosts": ["chip"]  }}}'
+  
